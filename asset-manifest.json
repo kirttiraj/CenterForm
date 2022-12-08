@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CenterForm/static/css/main.073c9b0a.css",
+    "main.js": "/CenterForm/static/js/main.a2680052.js",
+    "static/js/787.aeb39de0.chunk.js": "/CenterForm/static/js/787.aeb39de0.chunk.js",
+    "static/media/logo.svg": "/CenterForm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CenterForm/index.html",
+    "main.073c9b0a.css.map": "/CenterForm/static/css/main.073c9b0a.css.map",
+    "main.a2680052.js.map": "/CenterForm/static/js/main.a2680052.js.map",
+    "787.aeb39de0.chunk.js.map": "/CenterForm/static/js/787.aeb39de0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a2680052.js"
+  ]
+}
